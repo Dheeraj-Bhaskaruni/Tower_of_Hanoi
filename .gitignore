@@ -1,0 +1,17 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+
+# Environment
+venv/
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Ignore test file
+test.py
