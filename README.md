@@ -49,6 +49,7 @@ R
 your-folder/
 ├── script.py       # Main game logic
 ├── stack.py        # Stack class
+├── node.py        # Node class for Stack
 └── README.md       # This file
 ```
 
